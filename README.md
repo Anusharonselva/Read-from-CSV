@@ -28,7 +28,8 @@ print("Number of rows:",len(f.axes[0]))
 print("Number of columns:",len(f.axes[1]))
 
 ## OUTPUT:
-![Uploading Screenshot (273).png…]()
+
+![Screenshot (273)](https://github.com/Anusharonselva/Read-from-CSV/assets/119405600/faeee6d4-2b28-4098-862c-3c8653511778)
 
 
 ## RESULT:
